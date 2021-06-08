@@ -63,6 +63,10 @@ Drag and drop PopupUI folder to your project and set below function in Utils or 
         self.present(deleteVC, animated: false, completion: nil)
     }
 
+# Image
+
+https://github.com/kaushalparmar/Popup/blob/main/Image/PopupImage.png
+
 # Auther
 Kaushal Parmar
 kaushal9935@gmail.com
