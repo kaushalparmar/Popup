@@ -4,7 +4,7 @@ Two button popup with animated present and dismiss from center of the screen.
 
 # Code to manage Popup
 
-Drag and drop PopupUI folder to your project and set below function in Utils or specific UIViewController, and call it. You are done with the popup with two buttons.
+Drag and drop PopupUI folder to your project and set below function in Utils or specific UIViewController, and call this function to open two button popup with animation. then You are done with the popup with two buttons.
 
     /// Open Popup with two buttons.
     ///
