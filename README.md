@@ -65,7 +65,9 @@ Drag and drop PopupUI folder to your project and set below function in Utils or 
 
 # Image
 
-https://github.com/kaushalparmar/Popup/blob/main/Image/PopupImage.png
+<p align="center">
+<img src="https://github.com/kaushalparmar/Popup/blob/main/Image/PopupImage.png">
+</p>
 
 # Auther
 Kaushal Parmar
